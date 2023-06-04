@@ -1,0 +1,35 @@
+.show-total-card {
+  display: flex;
+  flex-direction: column;
+  align-self: flex-end;
+  border: 1px solid #000000;
+  border-radius: 10px;
+  padding: 10px;
+}
+.card-amount {
+  font-family: 'Roboto';
+  font-size: 25px;
+  color: gray;
+  margin-top: 0px;
+}
+.amount {
+  font-family: 'Roboto';
+  font-size: 30px;
+  color: #000000;
+}
+.total-products {
+  font-family: 'Roboto';
+  font-size: 15px;
+  color: #000000;
+  margin-top: 0px;
+}
+.check-btn {
+  border-radius: 5px;
+  border: none;
+  height: 30px;
+  background-color: blue;
+  font-family: 'Roboto';
+  font-size: 15px;
+  font-weight: 600;
+  color: #ffffff;
+}
